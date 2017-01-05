@@ -1,0 +1,139 @@
+Open TFTP Server MultiThreaded Version 1.64 Windows Built 2001
+
+[21-Sep-16 07:46:38] Network changed, re-detecting Interfaces..
+[21-Sep-16 07:46:38] detecting Interfaces..
+[21-Sep-16 07:46:38] Listening On: 192.168.1.126:69
+[21-Sep-16 07:46:38] Listening On: 127.0.0.1:69
+[21-Sep-16 08:00:02] Network changed, re-detecting Interfaces..
+[21-Sep-16 08:00:02] detecting Interfaces..
+[21-Sep-16 08:00:02] Listening On: 127.0.0.1:69
+[21-Sep-16 08:00:02] Closing Network Connections...
+[21-Sep-16 08:00:02] TFTP Server Stopped !
+
+[21-Sep-16 10:01:05] Open TFTP Server MultiThreaded Version 1.64 Windows Built 2001 Starting..
+[21-Sep-16 10:01:05] starting TFTP service
+[21-Sep-16 10:01:05] alias / is mapped to C:\Users\Matthijs\Documents\HSS\Stage_RDM\OpenTFTPServer\
+[21-Sep-16 10:01:05] permitted clients: all
+[21-Sep-16 10:01:05] server port range: all
+[21-Sep-16 10:01:05] max blksize: 65464
+[21-Sep-16 10:01:05] default blksize: 512
+[21-Sep-16 10:01:05] default timeout: 3
+[21-Sep-16 10:01:05] file read allowed: Yes
+[21-Sep-16 10:01:05] file create allowed: No
+[21-Sep-16 10:01:05] file overwrite allowed: No
+[21-Sep-16 10:01:05] logging: errors
+[21-Sep-16 10:01:05] thread pool size: 1
+[21-Sep-16 10:01:05] detecting Interfaces..
+[21-Sep-16 10:01:06] Listening On: 127.0.0.1:69
+[21-Sep-16 10:01:31] Network changed, re-detecting Interfaces..
+[21-Sep-16 10:01:31] detecting Interfaces..
+[21-Sep-16 10:01:31] Listening On: 127.0.0.1:69
+[21-Sep-16 10:01:32] Network changed, re-detecting Interfaces..
+[21-Sep-16 10:01:32] detecting Interfaces..
+[21-Sep-16 10:01:32] Listening On: 172.31.81.214:69
+[21-Sep-16 10:01:32] Listening On: 127.0.0.1:69
+[21-Sep-16 10:01:32] Network changed, re-detecting Interfaces..
+[21-Sep-16 10:01:32] detecting Interfaces..
+[21-Sep-16 10:01:32] Listening On: 172.31.81.214:69
+[21-Sep-16 10:01:32] Listening On: 127.0.0.1:69
+[21-Sep-16 10:01:36] Network changed, re-detecting Interfaces..
+[21-Sep-16 10:01:36] detecting Interfaces..
+[21-Sep-16 10:01:36] Listening On: 172.31.81.214:69
+[21-Sep-16 10:01:36] Listening On: 127.0.0.1:69
+[21-Sep-16 13:03:29] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:03:29] detecting Interfaces..
+[21-Sep-16 13:03:29] Listening On: 127.0.0.1:69
+[21-Sep-16 13:03:31] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:03:31] detecting Interfaces..
+[21-Sep-16 13:03:31] Listening On: 127.0.0.1:69
+[21-Sep-16 13:03:34] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:03:34] detecting Interfaces..
+[21-Sep-16 13:03:34] Listening On: 192.168.30.162:69
+[21-Sep-16 13:03:34] Listening On: 127.0.0.1:69
+[21-Sep-16 13:03:38] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:03:38] detecting Interfaces..
+[21-Sep-16 13:03:38] Listening On: 192.168.30.162:69
+[21-Sep-16 13:03:38] Listening On: 127.0.0.1:69
+[21-Sep-16 13:06:37] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:06:37] detecting Interfaces..
+[21-Sep-16 13:06:37] Listening On: 192.168.30.162:69
+[21-Sep-16 13:06:37] Listening On: 127.0.0.1:69
+[21-Sep-16 13:06:40] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:06:40] detecting Interfaces..
+[21-Sep-16 13:06:40] Listening On: 192.168.30.162:69
+[21-Sep-16 13:06:40] Listening On: 169.254.138.154:69
+[21-Sep-16 13:06:40] Listening On: 127.0.0.1:69
+[21-Sep-16 13:07:11] Network changed, re-detecting Interfaces..
+[21-Sep-16 13:07:11] detecting Interfaces..
+[21-Sep-16 13:07:11] Listening On: 192.168.30.162:69
+[21-Sep-16 13:07:11] Listening On: 127.0.0.1:69
+[21-Sep-16 16:03:01] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:03:02] detecting Interfaces..
+[21-Sep-16 16:03:02] Listening On: 192.168.30.162:69
+[21-Sep-16 16:03:02] Listening On: 127.0.0.1:69
+[21-Sep-16 16:19:02] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:19:02] detecting Interfaces..
+[21-Sep-16 16:19:02] Listening On: 127.0.0.1:69
+[21-Sep-16 16:19:03] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:19:03] detecting Interfaces..
+[21-Sep-16 16:19:03] Listening On: 172.31.81.214:69
+[21-Sep-16 16:19:03] Listening On: 127.0.0.1:69
+[21-Sep-16 16:19:03] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:19:03] detecting Interfaces..
+[21-Sep-16 16:19:03] Listening On: 172.31.81.214:69
+[21-Sep-16 16:19:03] Listening On: 127.0.0.1:69
+[21-Sep-16 16:19:06] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:19:06] detecting Interfaces..
+[21-Sep-16 16:19:06] Listening On: 172.31.81.214:69
+[21-Sep-16 16:19:06] Listening On: 127.0.0.1:69
+[21-Sep-16 16:21:04] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:21:04] detecting Interfaces..
+[21-Sep-16 16:21:04] Listening On: 127.0.0.1:69
+[21-Sep-16 16:21:07] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:21:07] detecting Interfaces..
+[21-Sep-16 16:21:07] Listening On: 192.168.30.162:69
+[21-Sep-16 16:21:07] Listening On: 127.0.0.1:69
+[21-Sep-16 16:21:07] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:21:07] detecting Interfaces..
+[21-Sep-16 16:21:07] Listening On: 192.168.30.162:69
+[21-Sep-16 16:21:07] Listening On: 127.0.0.1:69
+[21-Sep-16 16:21:10] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:21:10] detecting Interfaces..
+[21-Sep-16 16:21:10] Listening On: 192.168.30.162:69
+[21-Sep-16 16:21:10] Listening On: 127.0.0.1:69
+[21-Sep-16 16:24:35] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:24:35] detecting Interfaces..
+[21-Sep-16 16:24:35] Listening On: 192.168.30.162:69
+[21-Sep-16 16:24:35] Listening On: 127.0.0.1:69
+[21-Sep-16 16:29:49] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:29:49] detecting Interfaces..
+[21-Sep-16 16:29:49] Listening On: 127.0.0.1:69
+[21-Sep-16 16:29:56] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:29:56] detecting Interfaces..
+[21-Sep-16 16:29:56] Listening On: 192.168.30.162:69
+[21-Sep-16 16:29:56] Listening On: 127.0.0.1:69
+[21-Sep-16 16:34:29] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:34:29] detecting Interfaces..
+[21-Sep-16 16:34:29] Listening On: 192.168.30.162:69
+[21-Sep-16 16:34:29] Listening On: 127.0.0.1:69
+[21-Sep-16 16:40:31] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:40:31] detecting Interfaces..
+[21-Sep-16 16:40:31] Listening On: 127.0.0.1:69
+[21-Sep-16 16:40:34] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:40:34] detecting Interfaces..
+[21-Sep-16 16:40:34] Listening On: 172.31.81.214:69
+[21-Sep-16 16:40:34] Listening On: 127.0.0.1:69
+[21-Sep-16 16:40:37] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:40:37] detecting Interfaces..
+[21-Sep-16 16:40:37] Listening On: 172.31.81.214:69
+[21-Sep-16 16:40:37] Listening On: 127.0.0.1:69
+[21-Sep-16 16:51:34] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:51:34] detecting Interfaces..
+[21-Sep-16 16:51:34] Listening On: 172.31.81.214:69
+[21-Sep-16 16:51:34] Listening On: 127.0.0.1:69
+[21-Sep-16 16:51:36] Network changed, re-detecting Interfaces..
+[21-Sep-16 16:51:36] detecting Interfaces..
+[21-Sep-16 16:51:36] Listening On: 127.0.0.1:69
+[21-Sep-16 16:51:36] Closing Network Connections...
+[21-Sep-16 16:51:36] TFTP Server Stopped !
+

@@ -1,0 +1,28 @@
+Open TFTP Server MultiThreaded Version 1.64 Windows Built 2001
+
+[12-Sep-16 09:07:47] Network changed, re-detecting Interfaces..
+[12-Sep-16 09:07:48] detecting Interfaces..
+[12-Sep-16 09:07:48] Listening On: 192.168.1.126:69
+[12-Sep-16 09:07:48] Listening On: 127.0.0.1:69
+[12-Sep-16 09:07:54] Network changed, re-detecting Interfaces..
+[12-Sep-16 09:07:54] detecting Interfaces..
+[12-Sep-16 09:07:54] Listening On: 127.0.0.1:69
+[12-Sep-16 09:07:57] Network changed, re-detecting Interfaces..
+[12-Sep-16 09:07:57] detecting Interfaces..
+[12-Sep-16 09:07:57] Listening On: 127.0.0.1:69
+[12-Sep-16 09:08:00] Network changed, re-detecting Interfaces..
+[12-Sep-16 09:08:00] detecting Interfaces..
+[12-Sep-16 09:08:00] Listening On: 192.168.30.159:69
+[12-Sep-16 09:08:00] Listening On: 127.0.0.1:69
+[12-Sep-16 09:08:04] Network changed, re-detecting Interfaces..
+[12-Sep-16 09:08:04] detecting Interfaces..
+[12-Sep-16 09:08:04] Listening On: 192.168.30.159:69
+[12-Sep-16 09:08:04] Listening On: 127.0.0.1:69
+[12-Sep-16 10:35:35] Network changed, re-detecting Interfaces..
+[12-Sep-16 10:35:35] detecting Interfaces..
+[12-Sep-16 10:35:35] Listening On: 127.0.0.1:69
+[12-Sep-16 10:35:42] Network changed, re-detecting Interfaces..
+[12-Sep-16 10:35:42] detecting Interfaces..
+[12-Sep-16 10:35:42] Listening On: 192.168.30.159:69
+[12-Sep-16 10:35:42] Listening On: 127.0.0.1:69
+Logging Continued on file C:\Users\Matthijs\Documents\HSS\Stage_RDM\OpenTFTPServer\log\OpenTFTPServerMT20160913.log

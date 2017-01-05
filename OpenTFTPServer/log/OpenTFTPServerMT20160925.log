@@ -1,0 +1,44 @@
+Open TFTP Server MultiThreaded Version 1.64 Windows Built 2001
+
+[25-Sep-16 17:51:57] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:51:58] detecting Interfaces..
+[25-Sep-16 17:51:58] Listening On: 127.0.0.1:69
+[25-Sep-16 17:52:04] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:52:04] detecting Interfaces..
+[25-Sep-16 17:52:04] Listening On: 127.0.0.1:69
+[25-Sep-16 17:52:08] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:52:08] detecting Interfaces..
+[25-Sep-16 17:52:08] Listening On: 169.254.42.151:69
+[25-Sep-16 17:52:08] Listening On: 127.0.0.1:69
+[25-Sep-16 17:52:11] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:52:11] detecting Interfaces..
+[25-Sep-16 17:52:11] Listening On: 127.0.0.1:69
+[25-Sep-16 17:52:18] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:52:18] detecting Interfaces..
+[25-Sep-16 17:52:18] Listening On: 192.168.1.126:69
+[25-Sep-16 17:52:18] Listening On: 127.0.0.1:69
+[25-Sep-16 17:52:18] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:52:18] detecting Interfaces..
+[25-Sep-16 17:52:18] Listening On: 192.168.1.126:69
+[25-Sep-16 17:52:18] Listening On: 127.0.0.1:69
+[25-Sep-16 17:52:21] Network changed, re-detecting Interfaces..
+[25-Sep-16 17:52:21] detecting Interfaces..
+[25-Sep-16 17:52:21] Listening On: 192.168.1.126:69
+[25-Sep-16 17:52:21] Listening On: 127.0.0.1:69
+[25-Sep-16 21:18:29] Network changed, re-detecting Interfaces..
+[25-Sep-16 21:18:31] detecting Interfaces..
+[25-Sep-16 21:18:31] Listening On: 192.168.1.126:69
+[25-Sep-16 21:18:31] Listening On: 127.0.0.1:69
+[25-Sep-16 21:18:36] Network changed, re-detecting Interfaces..
+[25-Sep-16 21:18:36] detecting Interfaces..
+[25-Sep-16 21:18:36] Listening On: 127.0.0.1:69
+[25-Sep-16 21:18:41] Network changed, re-detecting Interfaces..
+[25-Sep-16 21:18:41] detecting Interfaces..
+[25-Sep-16 21:18:41] Listening On: 192.168.1.126:69
+[25-Sep-16 21:18:41] Listening On: 127.0.0.1:69
+[25-Sep-16 22:40:47] Network changed, re-detecting Interfaces..
+[25-Sep-16 22:40:47] detecting Interfaces..
+[25-Sep-16 22:40:47] Closing Network Connections...
+[25-Sep-16 22:40:47] Listening On: 127.0.0.1:69
+[25-Sep-16 22:40:47] TFTP Server Stopped !
+

@@ -1,0 +1,45 @@
+Open TFTP Server MultiThreaded Version 1.64 Windows Built 2001
+
+[07-Sep-16 14:31:30] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:31] detecting Interfaces..
+[07-Sep-16 14:31:31] Listening On: 127.0.0.1:69
+[07-Sep-16 14:31:33] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:33] detecting Interfaces..
+[07-Sep-16 14:31:33] Listening On: 10.101.1.33:69
+[07-Sep-16 14:31:33] Listening On: 127.0.0.1:69
+[07-Sep-16 14:31:36] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:36] detecting Interfaces..
+[07-Sep-16 14:31:36] Listening On: 10.101.1.33:69
+[07-Sep-16 14:31:36] Listening On: 127.0.0.1:69
+[07-Sep-16 14:31:48] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:48] detecting Interfaces..
+[07-Sep-16 14:31:48] Listening On: 127.0.0.1:69
+[07-Sep-16 14:31:50] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:50] detecting Interfaces..
+[07-Sep-16 14:31:50] Listening On: 127.0.0.1:69
+[07-Sep-16 14:31:53] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:53] detecting Interfaces..
+[07-Sep-16 14:31:53] Listening On: 127.0.0.1:69
+[07-Sep-16 14:31:55] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:31:55] detecting Interfaces..
+[07-Sep-16 14:31:55] Listening On: 127.0.0.1:69
+[07-Sep-16 14:32:00] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:32:00] detecting Interfaces..
+[07-Sep-16 14:32:00] Listening On: 127.0.0.1:69
+[07-Sep-16 14:42:56] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:42:56] detecting Interfaces..
+[07-Sep-16 14:42:56] Listening On: 169.254.42.151:69
+[07-Sep-16 14:42:56] Listening On: 127.0.0.1:69
+[07-Sep-16 14:43:10] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:43:10] detecting Interfaces..
+[07-Sep-16 14:43:10] Listening On: 10.19.0.251:69
+[07-Sep-16 14:43:10] Listening On: 127.0.0.1:69
+[07-Sep-16 14:43:13] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:43:13] detecting Interfaces..
+[07-Sep-16 14:43:13] Listening On: 10.19.0.251:69
+[07-Sep-16 14:43:13] Listening On: 127.0.0.1:69
+[07-Sep-16 14:43:13] Network changed, re-detecting Interfaces..
+[07-Sep-16 14:43:13] detecting Interfaces..
+[07-Sep-16 14:43:13] Listening On: 10.19.0.251:69
+[07-Sep-16 14:43:13] Listening On: 127.0.0.1:69
+Logging Continued on file C:\Users\Matthijs\Documents\HSS\Stage_RDM\OpenTFTPServer\log\OpenTFTPServerMT20160908.log
